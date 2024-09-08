@@ -1,6 +1,8 @@
 # meals_app
 
-A new Flutter project.
+![simple-iphone-15-pro-max (2)](https://github.com/user-attachments/assets/cf1b81f3-4926-4f91-acc0-b918c4c06856)
+![simple-iphone-15-pro-max (3)](https://github.com/user-attachments/assets/a51e1948-c7fc-4339-bdfb-e728849e68c5)
+
 
 ## Getting Started
 
